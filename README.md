@@ -64,7 +64,7 @@ AtliQ Hardware is a global player in computer accessories, operating through mul
 - Who are the primary stakeholders and users of this report?
 - What insights do they expect to gain?
 - What challenges or fears do they have about analytics?
-- What data is required and who owns it?
+- What data is required, and who owns it?
 
 ---
 
@@ -89,7 +89,7 @@ AtliQ Hardware is a global player in computer accessories, operating through mul
 - Implemented using **Snowflake Schema**
 - Relationships maintained with surrogate keys
 - Model optimized using **DAX Studio**
-![Data Model](Assets/model.png)
+![Data Model](Assets/Model.png)
 ---
 
 ## 📊 Dashboard Design & Features
