@@ -90,7 +90,7 @@ AtliQ Hardware is a global player in computer accessories, operating through mul
 - Relationships maintained with surrogate keys
 - Model optimized using **DAX Studio**
   
-![Data Model](Assets/Model.png)
+![Data Model](Assets/model.png)
 
 ---
 
