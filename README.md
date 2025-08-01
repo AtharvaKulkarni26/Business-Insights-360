@@ -89,7 +89,7 @@ AtliQ Hardware is a global player in computer accessories, operating through mul
 - Implemented using **Snowflake Schema**
 - Relationships maintained with surrogate keys
 - Model optimized using **DAX Studio**
-![Data Model](assets/model.png)
+![Data Model](Assets/model.png)
 ---
 
 ## 📊 Dashboard Design & Features
